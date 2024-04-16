@@ -317,7 +317,7 @@
 64
 - summary: |
     Проверка возможности самостоятельно создать турнир
-status: pass
+  status: pass
 
 65
 - summary: |
@@ -332,7 +332,7 @@ status: pass
 67
 - summary: |
     Проверка возможности посмотреть собственные показатели на странице
-    status: pass
+  status: pass
 
 68
 - summary: |
@@ -367,6 +367,7 @@ status: pass
 74
 - summary: |
     Проверка возможности посмотреть все существующие задачи
+  status: pass
 
 75
 - summary: |

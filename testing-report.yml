@@ -20,8 +20,8 @@
 
 #5
 - summary: |
-  Невозможность регистрации нового пользователя c незаполненным полем "Password Confirmation"
-status: pass
+    Невозможность регистрации нового пользователя c незаполненным полем "Password Confirmation"
+  status: pass
 
 #6
 - summary: |
